@@ -23,11 +23,11 @@ Publications
 * [The Aggregation--Heterogeneity Trade-off in Federated Learning]()  
   __Xuyang Zhao__, Huiyuan Wang, Wei Lin  
   Conference on Learning Theory (COLT), 2023
-* [ArCL: Enhancing Contrastive Learning with Augmentation-Robust Representations](https://arxiv.org/pdf/2303.01092.pdf)  
-  __Xuyang Zhao*__,  Tianqi Du*, Yisen Wang, Jun Yao, Weiran Huang  
+* [ArCL: Enhancing Contrastive Learning with Augmentation-Robust Representations](https://arxiv.org/pdf/2303.01092.pdf)
+  Xuyang Zhao*, Tianqi Du*, Yisen Wang, Jun Yao, Weiran Huang
   International Conference on Learning Representations (ICLR), 2023  
-* [Towards the Generalization of Contrastive Self-Supervised Learning](https://arxiv.org/pdf/2111.00743.pdf)  
-  Weiran Huang*, Mingyang Yi*, __Xuyang Zhao*__, Zihao Jiang  
+* [Towards the Generalization of Contrastive Self-Supervised Learning](https://arxiv.org/pdf/2111.00743.pdf)
+  Weiran Huang*, Mingyang Yi*, Xuyang Zhao*, Zihao Jiang  
   International Conference on Learning Representations (ICLR), 2023  
 * [Heterogeneous Federated Learning on a Graph](https://arxiv.org/pdf/2209.08737.pdf)  
   Huiyuan Wang*, __Xuyang Zhao*__, Wei Lin  
