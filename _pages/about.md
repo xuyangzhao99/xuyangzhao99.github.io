@@ -15,7 +15,7 @@ E-mail: xuyangzhao (at) pku dot edu dot cn
 
 
 
-My research interest primarily lies at the intersection of statistics and machine learning. Specifically, I currently focus on theory of pre-training and data fusion with heterogeneity.
+My research interest primarily lies at the intersection of statistics and machine learning. I currently focus on the theory of pre-training and data fusion with heterogeneity.
 
 Publications
 ------
