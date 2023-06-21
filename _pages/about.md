@@ -17,8 +17,9 @@ E-mail: xuyangzhao (at) pku dot edu dot cn
 
 My research interest primarily lies at the intersection of statistics and machine learning. Specifically, I currently focus on theory of pre-training and data fusion with heterogeneity.
 
-Publications (* marks equal contribution)
+Publications
 ------
+(<span style="font-size: smaller;">* marks equal contribution</span>)
 * [The Aggregation--Heterogeneity Trade-off in Federated Learning]()  
   __Xuyang Zhao__, Huiyuan Wang, Wei Lin  
   Conference on Learning Theory (COLT), 2023
