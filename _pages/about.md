@@ -30,4 +30,5 @@ Publications
   Weiran Huang\*, Mingyang Yi\*, __Xuyang Zhao\*__, Zihao Jiang  
   International Conference on Learning Representations (ICLR), 2023  
 * [Heterogeneous Federated Learning on a Graph](https://arxiv.org/pdf/2209.08737.pdf)  
-  Huiyuan Wang\*, __Xuyang Zhao\*__, Wei Lin  
+  Huiyuan Wang\*, __Xuyang Zhao\*__, Wei Lin
+  Manuscript
