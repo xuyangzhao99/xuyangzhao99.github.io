@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the Center of Statistical Sciences at Peking University under the supervision of Professor [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/). I received my bachelor's degree from School of Mathematical Sciences at Peking University in 2021.
+I am a second year Ph.D. student in the Center for Statistical Science at Peking University under the supervision of Professor [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/). I received my bachelor's degree from School of Mathematical Sciences at Peking University in 2021.
 I am interested in statistics and machine learning.
 
 E-mail: xuyangzhao (at) pku dot edu dot cn
 
 
 
-My research interest primarily lies at the intersection of statistics and machine learning. I currently focus on the theory of pre-training and data fusion with heterogeneity.
+My research interest primarily lies at the intersection of statistics and machine learning. I currently focus on the theory of pre-training and data fusion.
 
 Publications
 ------
