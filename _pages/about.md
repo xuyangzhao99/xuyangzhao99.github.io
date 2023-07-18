@@ -20,7 +20,10 @@ My research interest primarily lies at the intersection of statistics and machin
 Publications
 ------
 (<span style="font-size: smaller;">* marks equal contribution</span>)
-* [The Aggregation--Heterogeneity Trade-off in Federated Learning]()  
+* [When Noisy Labels Meet Long Tail Dilemmas: A Representation Calibration Method](https://arxiv.org/pdf/2211.10955.pdf)  
+  Manyi Zhang\*, __Xuyang Zhao\*__, Jun Yao, Chun Yuan, Weiran Huang
+  International Conference on Computer Vision (ICCV), 2023
+* [The Aggregation--Heterogeneity Trade-off in Federated Learning](https://proceedings.mlr.press/v195/zhao23b/zhao23b.pdf)  
   __Xuyang Zhao__, Huiyuan Wang, Wei Lin  
   Conference on Learning Theory (COLT), 2023
 * [ArCL: Enhancing Contrastive Learning with Augmentation-Robust Representations](https://arxiv.org/pdf/2303.01092.pdf)  
@@ -30,5 +33,5 @@ Publications
   Weiran Huang\*, Mingyang Yi\*, __Xuyang Zhao\*__, Zihao Jiang  
   International Conference on Learning Representations (ICLR), 2023  
 * [Heterogeneous Federated Learning on a Graph](https://arxiv.org/pdf/2209.08737.pdf)  
-  Huiyuan Wang\*, __Xuyang Zhao\*__, Wei Lin
+  Huiyuan Wang\*, __Xuyang Zhao\*__, Wei Lin  
   Manuscript
