@@ -22,7 +22,7 @@ Publications
 (<span style="font-size: smaller;">* marks equal contribution</span>)
 * [When Noisy Labels Meet Long Tail Dilemmas: A Representation Calibration Method](https://arxiv.org/pdf/2211.10955.pdf)  
   Manyi Zhang\*, __Xuyang Zhao\*__, Jun Yao, Chun Yuan, Weiran Huang  
-  International Conference on Computer Vision (ICCV), 2023
+  International Conference on Computer Vision (ICCV), 2023, **oral presentation** 
 * [The Aggregation--Heterogeneity Trade-off in Federated Learning](https://proceedings.mlr.press/v195/zhao23b/zhao23b.pdf)  
   __Xuyang Zhao__, Huiyuan Wang, Wei Lin  
   Conference on Learning Theory (COLT), 2023
