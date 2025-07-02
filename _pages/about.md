@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in the Center for Statistical Science at Peking University under the supervision of Professor [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/). I received my bachelor's degree from School of Mathematical Sciences at Peking University in 2021.
-I am interested in statistics and machine learning.
+I obtained my Ph.D. degree in statistics in 2025/07 from School of Mathematical Sciences at Peking University under the supervision of Professor [Wei Lin](https://www.math.pku.edu.cn/teachers/linw/). I received my bachelor's degree from School of Mathematical Sciences at Peking University in 2021/07.
 
 E-mail: xuyangzhao (at) pku dot edu dot cn
 
-
-
-My research interest primarily lies at the intersection of statistics and machine learning. I currently focus on the theory of pre-training and data fusion.
+My research interest primarily lies at the intersection of statistics and machine learning.
 
 Publications
 ------
 (<span style="font-size: smaller;">* marks equal contribution</span>)
+* [A Statistical Theory of Regularization-Based Continual Learning](https://arxiv.org/pdf/2406.06213)  
+  __Xuyang Zhao__, Huiyuan Wang, Weiran Huang, Wei Lin  
+  International Conference on Machine Learning (ICML), 2024
 * [When Noisy Labels Meet Long Tail Dilemmas: A Representation Calibration Method](https://arxiv.org/pdf/2211.10955.pdf)  
   Manyi Zhang\*, __Xuyang Zhao\*__, Jun Yao, Chun Yuan, Weiran Huang  
-  International Conference on Computer Vision (ICCV), 2023, **oral presentation** 
+  International Conference on Computer Vision (ICCV), 2023, **oral presentation**
 * [The Aggregation--Heterogeneity Trade-off in Federated Learning](https://proceedings.mlr.press/v195/zhao23b/zhao23b.pdf)  
   __Xuyang Zhao__, Huiyuan Wang, Wei Lin  
   Conference on Learning Theory (COLT), 2023
